@@ -13,16 +13,10 @@ I am a **Master 2 Student in AI Engineering** at **University Paris 8**. I am pa
 I focus on applying Artificial Intelligence to solve complex problems, with a strong emphasis on geospatial data.
 
 * **🌍 AI for Earth Observation (Remote Sensing)**
-    * Applying Deep Learning to satellite imagery (segmentation, classification).
-    * Working with **TorchGeo**, **OpenEO**, and **GeoPandas**.
 
 * **🗣️ Natural Language Processing (NLP)**
-    * Understanding and implementing Transformer architectures.
-    * Text classification and information extraction.
 
-* **🧠 Machine Learning Engineering**
-    * Building robust models using **PyTorch** and **TensorFlow**.
-    * Data processing and analysis with **Pandas** and **NumPy**.
+* **🧠 Machine Learning & Data Science**
 
 ---
 
