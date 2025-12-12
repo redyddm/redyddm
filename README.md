@@ -5,20 +5,38 @@
 ### 👋 Hi there!
 
 I am a **Master 2 Student in AI Engineering** at **University Paris 8**.
-My work sits at the intersection of **Artificial Intelligence** and **Satellite Imagery**.
+My work sits at the intersection of **Artificial Intelligence** and **Satellite Imagery**, building robust pipelines for complex data.
 
 ---
 
-### 🎯 Areas of Interest & Expertise
+### 🎯 Areas of Interest
 
-- 🛰️ **Geospatial AI & Remote Sensing**
-  <br/>Building pipelines for **Sentinel-1/2** & **ECOSTRESS** data using **OpenEO**, **EarthAccess**, and **GeoPandas**.
+* 🛰️ **AI for Earth Observation** (Remote Sensing, Satellite Imagery Analysis)
+* 🧠 **Natural Language Processing** (Text Vectorization, Recommender Systems)
+* 🛠️ **Data Engineering** (Pipeline Automation, Interactive Dashboards)
 
-- 🧠 **Machine Learning & NLP**
-  <br/>Designing **Recommender Systems** and text vectorization models using **S-BERT** and **Word2Vec**.
+---
 
-- 🛠️ **Engineering & Visualization**
-  <br/>Developing interactive data tools and dashboards with **Streamlit** and **Tkinter**.
+### 💻 Languages & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  
+  <br />
+
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenEO-003366?style=for-the-badge&logo=leaflet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</div>
 
 ---
 
