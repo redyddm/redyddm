@@ -12,7 +12,7 @@ I am a **Master 2 Student in AI Engineering** at **University Paris 8**. I am in
 
 * 🛰️ **AI for Earth Observation** (Remote Sensing, Satellite Imagery Analysis)
 * 🧠 **Natural Language Processing** (Text Vectorization, Recommender Systems)
-* 🛠️ **Data Engineering** (Pipeline Automation, Interactive Dashboards)
+* ⚙️ **Applied Machine Learning** (Model Training, Evaluation, Visualization)
 
 ---
 
