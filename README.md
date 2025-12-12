@@ -11,35 +11,26 @@ I am a **Master 2 Student in AI Engineering** at **University Paris 8**. I am pa
 ### 🚀 About Me
 
 - 🎓 I’m currently finishing my **Master's degree in Artificial Intelligence.**
-- 🔭 I’m working on **Machine Learning**, **NLP**, and **Remote Sensing** projects.
+- 🔭 I am focusing on building efficient **Deep Learning pipelines.**
+- 👯 I’m looking to collaborate on **AI research or engineering projects.**
 
 ---
 
-### 🧠 AI & Data Science Stack
+### 🔬 Areas of Interest & Focus
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/TorchGeo-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenEO-003366?style=for-the-badge&logo=leaflet&logoColor=white" />
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+I focus on applying Artificial Intelligence to solve complex problems, with a strong emphasis on geospatial data.
+
+* **🌍 AI for Earth Observation (Remote Sensing)**
+    * Applying Deep Learning to satellite imagery (segmentation, classification).
+    * Working with **TorchGeo**, **OpenEO**, and **GeoPandas**.
+
+* **🗣️ Natural Language Processing (NLP)**
+    * Understanding and implementing Transformer architectures.
+    * Text classification and information extraction.
+
+* **🧠 Machine Learning Engineering**
+    * Building robust models using **PyTorch** and **TensorFlow**.
+    * Data processing and analysis with **Pandas** and **NumPy**.
 
 ---
 
