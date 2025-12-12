@@ -35,28 +35,8 @@ I am a **Master 2 Student in AI Engineering** at **University Paris 8**. I am pa
   <br/>
   
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/redyddm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=redyddm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-  
-  <a href="https://github.com/redyddm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redyddm&layout=compact&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=redyddm&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15"/>
-</div>
-
 ---
 
 ### 📫 Connect with Me
