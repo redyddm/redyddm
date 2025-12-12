@@ -4,8 +4,7 @@
 
 ### 👋 Hi there!
 
-I am a **Master 2 Student in AI Engineering** at **University Paris 8**.
-My work sits at the intersection of **Artificial Intelligence** and **Satellite Imagery**, building robust pipelines for complex data.
+I am a **Master 2 Student in AI Engineering** at **University Paris 8**. I am interested by Data Science and currently exploring the intersection of **AI** and **Satellite Imagery**.
 
 ---
 
