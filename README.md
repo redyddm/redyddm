@@ -12,8 +12,6 @@ I am a **Master 2 Student in AI Engineering** at **University Paris 8**. I am pa
 
 - 🎓 I’m currently finishing my **Master's degree in Artificial Intelligence.**
 - 🔭 I’m working on **Machine Learning**, **NLP**, and **Remote Sensing** projects.
-- 🌱 I’m specializing in **Geospatial Data Analysis** with Deep Learning.
-- 👯 I’m looking to collaborate on **AI research or engineering projects.**
 
 ---
 
@@ -42,6 +40,7 @@ I am a **Master 2 Student in AI Engineering** at **University Paris 8**. I am pa
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
+
 ---
 
 ### 📫 Connect with Me
