@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome to my profile&fontSize=70&fontAlignY=35&animation=fadeIn&fontAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20my%20Profile&fontSize=70&fontAlignY=35&animation=fadeIn&fontAlign=50" width="100%"/>
 </div>
 
-### 👋 Hi there!
+### 👋 Hi there, I am Redouane!
 
-I am a **Master 2 Student in AI Engineering** at **University Paris 8**. I am interested by Data Science and currently exploring the intersection of **AI** and **Satellite Imagery**.
+I am a **Master 2 Student in AI Engineering** at **University Paris 8**. I am interested in **Data Science** and currently exploring the intersection of **AI** and **Satellite Imagery**.
 
 ---
 
@@ -41,7 +41,7 @@ I am a **Master 2 Student in AI Engineering** at **University Paris 8**. I am in
 
 ### 📫 Connect with Me
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/redouane-b-6aa382294/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
