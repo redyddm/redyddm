@@ -2,22 +2,23 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Redouane&fontSize=70&fontAlignY=35&animation=fadeIn&fontAlign=50" width="100%"/>
 </div>
 
-### 👋 Hi there, I am Redouane!
+### 👋 Hi there!
 
-I am a **Master 2 Student in AI Engineering** at **University Paris 8**. I am passionate about Data Science and currently exploring the intersection of **AI** and **Satellite Imagery**.
+I am a **Master 2 Student in AI Engineering** at **University Paris 8**.
+My work sits at the intersection of **Artificial Intelligence** and **Satellite Imagery**.
 
 ---
 
-### 🎯 Areas of Focus
+### 🎯 Areas of Interest & Expertise
 
-- 📡 **Remote Sensing & GeoAI** <br />
-  Building pipelines for **Sentinel-1/2** & **ECOSTRESS** data using **OpenEO**, **EarthAccess**, and **GeoPandas**.
+- 🛰️ **Geospatial AI & Remote Sensing**
+  <br/>Building pipelines for **Sentinel-1/2** & **ECOSTRESS** data using **OpenEO**, **EarthAccess**, and **GeoPandas**.
 
-- 🧠 **Machine Learning & NLP** <br />
-  Developing **Recommender Systems** (SVD, KNN) and **Text Vectorization** pipelines (**S-BERT**, Word2Vec).
+- 🧠 **Machine Learning & NLP**
+  <br/>Designing **Recommender Systems** and text vectorization models using **S-BERT** and **Word2Vec**.
 
-- 🛠️ **Engineering & Visualization** <br />
-  Creating interactive tools and dashboards with **Streamlit** and **Tkinter**.
+- 🛠️ **Engineering & Visualization**
+  <br/>Developing interactive data tools and dashboards with **Streamlit** and **Tkinter**.
 
 ---
 
