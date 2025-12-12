@@ -8,14 +8,6 @@ I am a **Master 2 Student in AI Engineering** at **University Paris 8**. I am pa
 
 ---
 
-### 🚀 About Me
-
-- 🎓 I’m currently finishing my **Master's degree in Artificial Intelligence.**
-- 🔭 I am focusing on building efficient **Deep Learning pipelines.**
-- 👯 I’m looking to collaborate on **AI research or engineering projects.**
-
----
-
 ### 🔬 Areas of Interest & Focus
 
 I focus on applying Artificial Intelligence to solve complex problems, with a strong emphasis on geospatial data.
