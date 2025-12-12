@@ -46,9 +46,3 @@ I am a **Master 2 Student in AI Engineering** at **University Paris 8**. I am pa
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=redyddm&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
-</div>
