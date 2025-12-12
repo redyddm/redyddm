@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Redouane&fontSize=70&fontAlignY=35&animation=fadeIn&fontAlign=50" width="100%"/>
 </div>
 
-### 👋 Hi there!
+### 👋 Hi there, I am Redouane!
 
-I am a **Master 2 Student in AI Engineering** at **University Paris 8**. My focus is on building robust data pipelines and applying mathematical models to solve problems in **Earth Observation** and **Recommendation Systems**.
+I am a **Master 2 Student in AI Engineering** at **University Paris 8**. I am passionate about Data Science and currently exploring the intersection of AI and satellite imagery.
 
 ---
 
